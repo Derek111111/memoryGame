@@ -1,0 +1,24 @@
+img{
+
+    width:200px;
+    height:150px;
+
+}
+.left{
+
+    float:left;
+}
+
+.centeredText{
+
+    text-align:center;
+    background-color: blue;
+    color: white;
+    border-radius: 3px;
+}
+
+.pictureButton{
+
+    padding: 20px;
+
+}
